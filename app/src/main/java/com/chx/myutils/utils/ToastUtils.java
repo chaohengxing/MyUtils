@@ -1,10 +1,14 @@
-package com.chx.myutils;
+package com.chx.myutils.utils;
 
 import android.app.Activity;
 import android.content.Context;
 import android.view.Gravity;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.chx.myutils.App;
+import com.chx.myutils.R;
+import com.chx.myutils.utils.DensityUtils;
 
 
 /**

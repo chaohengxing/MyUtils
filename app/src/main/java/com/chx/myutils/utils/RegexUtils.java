@@ -1,4 +1,4 @@
-package com.chx.myutils;
+package com.chx.myutils.utils;
 
 /**
  * Created by aresa on 2016/4/17.

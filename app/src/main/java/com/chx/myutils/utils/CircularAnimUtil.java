@@ -1,4 +1,4 @@
-package com.chx.myutils;
+package com.chx.myutils.utils;
 
 /**
  * Created by codeest on 2016/7/25.

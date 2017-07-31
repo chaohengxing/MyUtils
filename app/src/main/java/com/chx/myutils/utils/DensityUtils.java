@@ -1,4 +1,4 @@
-package com.chx.myutils;
+package com.chx.myutils.utils;
 
 import android.app.Activity;
 import android.content.Context;

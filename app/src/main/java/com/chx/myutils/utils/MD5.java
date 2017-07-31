@@ -1,4 +1,4 @@
-package com.chx.myutils;
+package com.chx.myutils.utils;
 
 import java.security.MessageDigest;
 
